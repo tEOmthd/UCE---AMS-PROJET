@@ -1,0 +1,11 @@
+# Modèles entraînés (lourds, à régénérer ou partager à part)
+models/*.pt
+
+# Logs d'entraînement et courbes
+log*.txt
+courbe_*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
